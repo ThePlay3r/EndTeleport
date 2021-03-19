@@ -1,0 +1,10 @@
+name: EndTeleport
+version: @version@
+main: me.pljr.endteleport.EndTeleport
+api-version: 1.16
+authors: [ 9hx ]
+depends: [PLJRApi]
+description: Simple plugin for teleporting players to The End dimension.
+commands:
+  endteleport:
+    description: Main command.
